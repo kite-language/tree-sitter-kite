@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Tree-sitter grammar for the Kite programming language",
   "main": "bindings/node",
-  "repository": "https://github.com/yo-le-zz/tree-sitter-kite",
+  "repository": "https://github.com/kite-language/tree-sitter-kite",
   "license": "MIT",
   "author": "yo-le-zz",
   "keywords": [
